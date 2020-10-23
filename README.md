@@ -1,6 +1,6 @@
-# js13k-2020-wizard-with-a-shotgun
+# wizard-with-a-shotgun
 
-> My 2020 entry for the js13kgames competition, WIZARD WITH A SHOTGUN.
+> My 2020 entry for the Major Project, WIZARD WITH A SHOTGUN.
 
 ## INSTRUCTIONS
 
