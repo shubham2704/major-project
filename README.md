@@ -1,6 +1,7 @@
 # wizard-with-a-shotgun
 
 > My 2020 entry for the Major Project, WIZARD WITH A SHOTGUN.
+> To play the Game [click here](wizard-with-shotgun.surge.sh) or visit [](wizard-with-shotgun.surge.sh)
 
 ## INSTRUCTIONS
 
