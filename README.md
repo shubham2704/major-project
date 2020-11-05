@@ -2,8 +2,7 @@
 
 > My 2020 entry for the Major Project, WIZARD WITH A SHOTGUN.
 
-> To play the Game [click here](wizard-with-shotgun.surge.sh) or visit [wizard-with-shotgun.surge.sh](wizard-with-shotgun.surge.sh)
-
+> To play the Game [click here](http://wizard-with-shotgun.surge.sh/) or visit http://wizard-with-shotgun.surge.sh/
 ## INSTRUCTIONS
 
 In this top-down 2D shooter, help the Wizard recover the missing pages of the Shotgun Arcana from the dungeon by blasting everything you see.
